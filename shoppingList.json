@@ -1,0 +1,49 @@
+{
+    "shoppingList":[
+        {
+            "name": "Alus",
+            "cost": 4,
+            "promiles": 0.1
+        },
+        {
+            "name": "Vynas",
+            "cost": 20,
+            "promiles": 0.25
+        },
+        {
+            "name": "Šampanas",
+            "cost": 16,
+            "promiles": 0.25
+        },
+        {
+            "name": "Viskis",
+            "cost": 26,
+            "promiles": 0.5
+        },
+        {
+            "name": "Vodka",
+            "cost": 39,
+            "promiles": 0.65
+        },
+        {
+            "name": "Gin",
+            "cost": 35,
+            "promiles": 0.53
+        },
+        {
+            "name": "Jagermeister",
+            "cost": 29,
+            "promiles": 0.6
+        },
+        {
+            "name": "Kola",
+            "cost": 2,
+            "promiles": 0
+        },
+        {
+            "name": "RedBull",
+            "cost": 2,
+            "promiles": 0
+        }
+    ]
+}
