@@ -12,8 +12,6 @@ const fetch = require("node-fetch")
 
 const { readdirSync } = require('fs');
 
-const { join } = require('path');
-
 const disbut = require('discord-buttons');
 disbut(client);
 
